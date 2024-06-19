@@ -15,11 +15,18 @@ mov al, 'O'
 int 0x10
 mov ah, 0x0e
 mov al, 'I'
-int 0x10
+int 0x10     
 mov ah, 0x0e
 mov al, 'D'
-int 0x10
-jmp $
+iny 0x10
+label:
+ db "Welcome to ScutoidOS beta!", 0
+ [org ox7c00]
+ mov ah, 0x0e
+ mov al, [label]
+
+
+  jmp $
 
 times 510-($-$$) db 0
 db 0x55, 0xaa
