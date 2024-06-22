@@ -18,7 +18,8 @@ mov al, 'I'
 int 0x10     
 mov ah, 0x0e
 mov al, 'D'
-iny 0x10
+int 0x10
+
 label:
  db "Welcome to ScutoidOS beta!", 0
  [org ox7c00]
