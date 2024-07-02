@@ -1,6 +1,7 @@
 /*++
 
 Copyright (c) 2013 Minoca Corp.
+from minoca corp but was copied over.
 
     This file is licensed under the terms of the GNU Lesser General Public
     License version 3. Alternative licensing terms are available. Contact
