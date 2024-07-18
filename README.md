@@ -4,7 +4,7 @@ A Hobby OS.
 
 Right now it
 
--only says the word "SCUTOID"
+-only says the word "SCUTOID BETA VERSION1"
 
 It is proven to work with 
 
@@ -13,5 +13,5 @@ It is proven to work with
 
 > Minimum (Untested)
 
-- 8 MB of RAM
+- 4 MB of RAM
 - 100 mb of Storage
