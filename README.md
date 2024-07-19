@@ -15,3 +15,5 @@ It is proven to work with
 
 - 4 MB of RAM
 - 100 mb of Storage
+
+- For daily driver versions, go to ScutoidTech/ScutoidOS
