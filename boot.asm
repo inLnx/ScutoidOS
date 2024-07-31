@@ -16,33 +16,21 @@ mov al, 'D'
 int 0x10
 mov al, ' '
 int 0x10
-mov al, 'B'
+mov al, 'C'
 int 0x10
-mov al, 'E'
-int 0x10
-mov al, 'T'
-int 0x10
-mov al, 'A'
-int 0x10
-mov al, ' '
-int 0x10
-mov al, 'V'
-int 0x10
-mov al, 'E'
-int 0x10
-mov al, 'R'
+mov al, 'U'
 int 0x10
 mov al, 'S'
 int 0x10
-mov al, 'I'
+mov al, 'T'
 int 0x10
 mov al, 'O'
 int 0x10
-mov al, 'N'
+mov al, 'M'
 int 0x10
 mov al ' '
 int 0x10
-mov al, '1'
+mov al, '1.0.2'
 int 0x10
 char:
  db 0 
