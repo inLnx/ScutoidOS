@@ -1,5 +1,9 @@
 # ScutoidOS
 
+![OS](https://github.com/user-attachments/assets/38a1912b-454e-4636-b194-c4dd38c0d336)
+
+j
+
 A Hobby OS.
 
 Right now it
