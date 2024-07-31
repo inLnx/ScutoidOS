@@ -7,7 +7,7 @@ A Hobby OS.
 
 + Says "SCUTOID BETA VERSION1"
 
-It is proven to work with 
+ > It is proven to work with 
 
 - 4 MB of RAM
 - 10 MB of storage.
@@ -17,6 +17,6 @@ It is proven to work with
 - 2 MB of RAM
 - 5 mb of Storage
 
-- For daily driver versions, go to ScutoidTech/ScutoidOS
+> For daily driver versions, go to ScutoidTech/ScutoidOS
 
-- By using these requirements you will be able to load ScutoidOS into memory
+> By using these requirements you will be able to load ScutoidOS into memory
