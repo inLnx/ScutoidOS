@@ -17,10 +17,9 @@ A Hobby OS.
 - 2 MB of RAM
 - 5 mb of Storage
 
-<<<<<<< HEAD
-The storage will be needed for programs
-=======
+
+>The storage will be needed for programs
+
 > For daily driver versions, go to ScutoidTech/ScutoidOS
 
 > By using these requirements you will be able to load ScutoidOS into memory
->>>>>>> baac43ecb2a03298f5914d85ef0f09f15d11edb2
