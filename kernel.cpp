@@ -4,12 +4,16 @@
 
 /* Check if the compiler thinks you are targeting the wrong operating system. */
 #if defined(__linux__)
-#error "You are not using a cross-compiler, you will most certainly run into trouble"
+#error "You are not using a cross-compiler,That's Bad!"
 #endif
 
 /* This tutorial will only work for the 32-bit ix86 targets. */
 #if !defined(__i386__)
+<<<<<<< HEAD
 #error "needs to be compiled with a ix86-elf compiler"
+=======
+#error "This needs to be compiled with a ix86-elf compiler"
+>>>>>>> baac43ecb2a03298f5914d85ef0f09f15d11edb2
 #endif
 
 /* Hardware text mode color constants. */
@@ -110,5 +114,5 @@ void kernel_main(void)
 	terminal_initialize();
 
 	/* Newline support is left as an exercise. */
-	terminal_writestring("Hello, kernel World!\n");
+	terminal_writestring("Scutoid is booting\n");
 }
