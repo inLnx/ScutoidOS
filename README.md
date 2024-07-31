@@ -10,12 +10,12 @@ A Hobby OS.
  > It is proven to work with 
 
 - 4 MB of RAM
-- 10 MB of storage.
+- 16 MB of storage.
 
 > Minimum (Untested)
 
 - 2 MB of RAM
-- 5 mb of Storage
+- 4 mb of Storage
 
 
 >The storage will be needed for programs
