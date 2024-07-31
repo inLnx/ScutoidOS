@@ -40,10 +40,17 @@ mov al, 'O'
 int 0x10
 mov al, 'N'
 int 0x10
+mov al ' '
+int 0x10
 mov al, '1'
 int 0x10
-msg   db 'Hello User', 13, 10, 0
-
+char:
+ db 0 
+  mov ah, 0
+   int 0x16
+   mov al, [char]
+buffer:
+ times 10 db 0 
 ; Infinite Loop
 jmp $
 
@@ -51,7 +58,6 @@ jmp $
    mov ax, 0x07c0
    mov ds, ax
 
-   mov si, msg
    cld
 ch_loop:lodsb
    or al, al ; zero=end of str
@@ -65,7 +71,7 @@ ch_loop:lodsb
 
 
 ; Fill Remaining Boot Sector with Zeros
-times 510-($-$$) db 0 ; apperently this is worth about 2 bytes
+times 1020-($-$$) db 0 ; apperently this is worth about 2 bytes
 
 ; Boot Signature
 db 0x55

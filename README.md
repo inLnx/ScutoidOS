@@ -14,4 +14,7 @@ It is proven to work with
 > Minimum (Untested)
 
 - 4 MB of RAM
-- 100 mb of Storage
+- 16 MB of Storage
+
+
+The storage will be needed for programs
