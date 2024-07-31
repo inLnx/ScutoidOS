@@ -1,0 +1,2 @@
+I am planning on working on a version where you can downgrade. I will keep updating because you can boot a live enviornment and flash
+the bin file to a USB. Make it at least 4 MB in size, as this repository it 1.6 MB.
