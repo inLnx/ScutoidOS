@@ -1,0 +1,3 @@
+Builds are imported here and all pull requests are accepted.  I will build each version every week. They will be under releases as ScutoidOS <Version> - Custom.
+
++ Email techedreal@gmail.com to work on the main versions
