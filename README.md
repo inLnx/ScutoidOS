@@ -1,5 +1,8 @@
 # ScutoidOS
 
+![OS](https://github.com/user-attachments/assets/38a1912b-454e-4636-b194-c4dd38c0d336)
+
+
 A Hobby OS.
 
 Right now it
@@ -14,7 +17,6 @@ It is proven to work with
 > Minimum (Untested)
 
 - 4 MB of RAM
-- 16 MB of Storage
-
+- 100 mb of Storage
 
 The storage will be needed for programs
