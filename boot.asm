@@ -40,8 +40,6 @@ mov al, 'O'
 int 0x10
 mov al, 'N'
 int 0x10
-mov al ' '
-int 0x10
 mov al, '1'
 int 0x10
 char:
