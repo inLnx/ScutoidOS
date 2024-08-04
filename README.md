@@ -1,6 +1,10 @@
 # ScutoidOS 2
 ![2](https://github.com/user-attachments/assets/2f55a07b-a1da-460e-a4d0-c200baac29e6)
 
+
+https://github.com/user-attachments/assets/72de805c-e146-4a6b-a972-3ff01b313567
+
+
 ### August 7th
 
 # ScutoidOS 1
