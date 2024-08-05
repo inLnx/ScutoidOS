@@ -6,7 +6,6 @@
 https://github.com/user-attachments/assets/3b2608eb-b444-4c2a-bb1b-610a699a48a0
 
 
-Bootloader
 
 ### August 9th
 
