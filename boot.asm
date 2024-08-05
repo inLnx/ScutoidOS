@@ -14,33 +14,12 @@ mov al, 'I'
 int 0x10
 mov al, 'D'
 int 0x10
-mov al, ' '
+
+mov al,'T'
 int 0x10
-mov al, 'B'
+mov al,'W'
 int 0x10
-mov al, 'E'
-int 0x10
-mov al, 'T'
-int 0x10
-mov al, 'A'
-int 0x10
-mov al, ' '
-int 0x10
-mov al, 'V'
-int 0x10
-mov al, 'E'
-int 0x10
-mov al, 'R'
-int 0x10
-mov al, 'S'
-int 0x10
-mov al, 'I'
-int 0x10
-mov al, 'O'
-int 0x10
-mov al, 'N'
-int 0x10
-mov al, '1'
+mov al,'O'
 int 0x10
 char:
  db 0 

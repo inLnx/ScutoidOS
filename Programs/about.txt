@@ -1,0 +1,1 @@
+Here you can find ScutoidOS System programs. Currently there is no way to unload external applications onto the OS. There is also no way to open them currently. Email techedreal@gmail.com for the SDK
