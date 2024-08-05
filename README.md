@@ -5,7 +5,7 @@
 https://github.com/user-attachments/assets/72de805c-e146-4a6b-a972-3ff01b313567
 
 
-### August 7th
+### August 9th
 
 # ScutoidOS 1
 ## Unavailable for Mac
