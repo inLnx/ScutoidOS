@@ -1,2 +1,4 @@
 .vscode/
-/workspace/ScutoidOS/image.hdd
+/workspace/ScutoidOS/image.hdd/
+bin/
+obj/
