@@ -23,7 +23,7 @@ mov al,'O'
 int 0x10
 char:
  db 0 
-  mov ah, 0
+  mov ah, 0/workspace/ScutoidOS/qemu.sh
    int 0x16
    mov al, [char]
 buffer:

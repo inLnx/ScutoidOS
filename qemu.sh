@@ -1,5 +1,6 @@
-git clone https://github.com/limine-bootloader/limine.git --branch=v8.x-binary --depth=1
 sudo -s
+sudo apt install install xorriso
+git clone https://github.com/limine-bootloader/limine.git --branch=v8.x-binary --depth=1
 mkdir -p iso_root
 mkdir -p iso_root/boot
 cp -v bin/myos iso_root/boot/

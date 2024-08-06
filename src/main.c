@@ -115,11 +115,12 @@ void _start(void) {
     // Note: we assume the framebuffer model is RGB with 32-bit pixels.
     for (size_t i = 0; i < 100; i++) {
         volatile uint32_t *fb_ptr = framebuffer->address;
-        fb_ptr[i * (framebuffer->pitch / 4) + i] = 0xffffff;
+        fb_ptr[i * (framebuffer->pitch / 8) + i] = 0x0000ff;
     }
 
     // We're done, just hang...
     hcf();
+
 }
 //linker.ld
 //This is going to be our linker script describing where our sections will end up in memory.
