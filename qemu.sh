@@ -9,5 +9,3 @@ mkdir -p iso_root/EFI/BOOT
 cp -v limine/BOOTX64.EFI iso_root/EFI/BOOT/
 cp -v limine/BOOTIA32.EFI iso_root/EFI/BOOT/
 xorriso -as mkisofs -b boot/limine/limine-bios-cd.bin -no-emul-boot -boot-load-size 4 -boot-info-table --efi-boot boot/limine/limine-uefi-cd.bin -efi-boot-part --efi-boot-image --protective-msdos-label iso_root -o image.iso
-./limine/limine bios-install image.iso
-@ECHO "qemu-system-x86_64 -cdrom <iso> -L "C:\Program Files\qemu""
