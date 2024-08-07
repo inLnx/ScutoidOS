@@ -8,6 +8,7 @@
 
 On a Linux computer
 + Install xorriso
++ Install GCC cross compiler
 + Open vscode and cd to the extracted ScutoidOS folder
 + Download build.sh and run it (sh "PATH")
 + Rename the file ending to .iso (Delete the ending, press enter, and then add .iso again)
