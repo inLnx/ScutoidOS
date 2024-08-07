@@ -1,14 +1,9 @@
 # ScutoidOS 2
-![2](https://github.com/user-attachments/assets/2f55a07b-a1da-460e-a4d0-c200baac29e6)
++ Limine Bootloader
 
-
-
-https://github.com/user-attachments/assets/3b2608eb-b444-4c2a-bb1b-610a699a48a0
-
-
-
-### Today
-
+### System Requirements
++ 4 MB of ram
++ 8 MB storage
 # ScutoidOS 1
 ## Unavailable for Mac
 
