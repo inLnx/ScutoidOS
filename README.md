@@ -1,5 +1,5 @@
 # ScutoidOS 2
-+ Limine Bootloader
++ Limine Bootloader 
 
 ### System Requirements
 + 4 MB of ram
