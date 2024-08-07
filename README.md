@@ -5,7 +5,7 @@
 + 4 MB of ram
 + 8 MB storage
 ### Building Instructions
-Requirements
+### Requirements
 + xorriso
 + gcc-cross-compiler
 ### On a Linux computer
