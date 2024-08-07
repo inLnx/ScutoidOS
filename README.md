@@ -6,7 +6,7 @@
 + 8 MB storage
 ### Building Instructions
 
-On a linux computer
+On a Linux computer
 + Install xorriso
 + Open vscode and cd to the extracted ScutoidOS folder
 + Download qemu.sh and run it (sh "PATH")
