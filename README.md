@@ -9,9 +9,9 @@
 + xorriso
 + gcc-cross-compiler
 ### On a Linux computer
-+ Open vscode and cd to the extracted ScutoidOS folder
-+ enter make -C limine
+```
 ./build.sh
+```
 
 # ScutoidOS 1
 ## Unavailable for Mac
