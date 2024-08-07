@@ -10,10 +10,8 @@
 + gcc-cross-compiler
 ### On a Linux computer
 + Open vscode and cd to the extracted ScutoidOS folder
-+ Download build.sh and run it (sh "PATH")
-+ Rename the file ending to .iso (Delete the ending, press enter, and then add .iso again)
-+ Boot
-
++ enter make -C limine
+./build.sh
 
 # ScutoidOS 1
 ## Unavailable for Mac
