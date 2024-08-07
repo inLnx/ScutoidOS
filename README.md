@@ -7,7 +7,6 @@
 ### Building Instructions
 
 On a Linux computer
-+ Install xorriso
 + Install GCC cross compiler
 + Open vscode and cd to the extracted ScutoidOS folder
 + Download build.sh and run it (sh "PATH")
