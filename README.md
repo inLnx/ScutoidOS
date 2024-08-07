@@ -1,13 +1,18 @@
 # ScutoidOS 2
-![2](https://github.com/user-attachments/assets/2f55a07b-a1da-460e-a4d0-c200baac29e6)
++ Limine Bootloader
 
+### System Requirements
++ 4 MB of ram
++ 8 MB storage
+### Building Instructions
 
+On a Linux computer
++ Install GCC cross compiler
++ Open vscode and cd to the extracted ScutoidOS folder
++ Download build.sh and run it (sh "PATH")
++ Rename the file ending to .iso (Delete the ending, press enter, and then add .iso again)
++ Boot
 
-https://github.com/user-attachments/assets/3b2608eb-b444-4c2a-bb1b-610a699a48a0
-
-
-
-### August 9th
 
 # ScutoidOS 1
 ## Unavailable for Mac
@@ -21,14 +26,8 @@ A Hobby OS.
 
  > It is proven to work with 
 
-- 4 MB of RAM
-- 16 MB of storage.
-
-> Minimum (Untested)
-
-- 2 MB of RAM
-- 4 mb of Storage
-
+- 0.4 MB of RAM
+- 0.5 MB of storage.
 
 >The storage will be needed for programs
 
