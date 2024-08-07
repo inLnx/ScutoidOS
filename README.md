@@ -4,6 +4,16 @@
 ### System Requirements
 + 4 MB of ram
 + 8 MB storage
+### Building Instructions
+
+On a linux computer
++ Install xorriso
++ Open vscode and cd to the extracted ScutoidOS folder
++ Download qemu.sh and run it (sh "PATH")
++ Rename the file ending to .iso (Delete the ending, press enter, and then add .iso again)
++ Boot
+
+
 # ScutoidOS 1
 ## Unavailable for Mac
 
