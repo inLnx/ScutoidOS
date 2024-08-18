@@ -10,7 +10,7 @@
 + gcc-cross-compiler
 ### On a Linux computer
 ```
-./build.sh
+sh path to sh
 ```
 ### Thanks to Dcraftbg, abdoowd, and JakeStBu.
 
