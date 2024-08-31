@@ -1,6 +1,5 @@
-.vscode/
-/workspace/ScutoidOS/image.hdd/
+/.vscode
+/image.iso
 bin/
 obj/
-/workspace/ScutoidOS/iso_root
-/workspace/ScutoidOS/iso_root
+/iso_root
