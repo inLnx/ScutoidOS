@@ -12,7 +12,7 @@
 ```
 sh path/to/sh
 ```
-### Thanks to Dcraftbg, abdoowd, and JakeStBu.
+### .
 
 # ScutoidOS 1
 ## Unavailable for Mac  
