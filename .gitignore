@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-/.vscode
-/image.iso
-bin/
-obj/
-/iso_root
-=======
+
 .vscode/
 bin/
 obj/
