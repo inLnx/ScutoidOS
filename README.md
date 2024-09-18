@@ -12,10 +12,6 @@
 ```
 sh path/to/sh
 ```
-<<<<<<< HEAD
-### .
-=======
->>>>>>> f09a4ceb3aeea6bf1346af6235c794170a6c85b5
 
 # ScutoidOS 1
 ## Unavailable for Mac  
