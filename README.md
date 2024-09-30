@@ -1,4 +1,4 @@
-# ScutoidOS 2*BROKEN*
+# ScutoidOS 2 *BROKEN*
 + Limine Bootloader 
 
 ### System Requirements
