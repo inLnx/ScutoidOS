@@ -1,2 +1,0 @@
-To zip a file to a bin file, enter the command nasm  -f bin boot.asm -o ScutoidOS{VersionNumber}.bin
-if not valid code will be omitted from boot.
