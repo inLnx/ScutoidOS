@@ -1,4 +1,8 @@
-# ScutoidOS 2 *BROKEN*
+# ScutoidOS 3 
++ No More limine bootloader
++ December 19th
+
+# ScutoidOS 2 
 + Limine Bootloader 
 
 ### System Requirements
