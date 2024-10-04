@@ -2,6 +2,7 @@
 + No More limine bootloader
 + December 19th
 
+
 # ScutoidOS 2 
 + Limine Bootloader 
 
