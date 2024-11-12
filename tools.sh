@@ -11,3 +11,6 @@ sudo apt install grep
 sudo apt install sed
 sudo apt install ld
 sudo apt install make
+sudo apt install gcc
+sudo apt install telnet
+echo All Done!
