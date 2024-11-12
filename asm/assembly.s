@@ -1,13 +1,11 @@
-section  .text
- global _start  ;something about linker (ld)
+SECTION .data
+msg db 'Hello', 0Ah ;this appears to be a variable name
+SECTION .text
+global _start
+_start:
 
- _start:  ; linker entry point
-  mov edx,len ;length into edx register
-  move ecx,msg ;moves message into the ecx register
-  move ebx,1 ;moves one into ebx (stdout file descriptor)
-  mov eax,4 ;moves 4 into eax (system call number for sys write)
-  int 0x80 ; call kernel
-  mov eax,1 ; system call number for (sys exit)
-  int 0x80 ; call kernel again
-  section  .data ; holds the main data
-  msg db "ASM text"
+mov edx, 13
+move ecx, 0Ah
+mov ebx, 1
+mov eax, 4
+int 80h
