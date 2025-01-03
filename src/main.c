@@ -1,7 +1,7 @@
 #include <stdint.h>
 #include <stddef.h>
 #include <stdbool.h>
-#include <limine.h>
+#include "limine.h"
 
 // Set the base revision to 3, this is recommended as this is the latest
 // base revision described by the Limine boot protocol specification.
@@ -108,7 +108,16 @@ void kmain(void) {
      || framebuffer_request.response->framebuffer_count < 1) {
       // #nohangs  hcf();
     }
+asm(  "gdtr DW 0 ; For limit storage
+     DD 0 ; For base storage
 
+setGdt:
+   MOV   AX, [esp + 4]
+   MOV   [gdtr], AX
+   MOV   EAX, [ESP + 8]
+   MOV   [gdtr + 2], EAX
+   LGDT  [gdtr]
+   RET"  );
     // Fetch the first framebuffer.
     struct limine_framebuffer *framebuffer = framebuffer_request.response->framebuffers[0];
 
